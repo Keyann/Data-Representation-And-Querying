@@ -49,4 +49,10 @@ https://galwaycitybeaches.ie/beaches/longtitude
 
 
 **Beaches by gps search**
+
 https://galwaycitybeaches.ie/local-gps
+
+
+#Conclusion
+
+App should be released in beta form to get feedback from users and fix any problems/bugs for initial release
